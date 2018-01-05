@@ -1,0 +1,9 @@
+includ<stadio.h>
+
+int main(void)
+{
+  printf("I Love You"\n);
+  
+  getchar();
+  return 0;
+}
